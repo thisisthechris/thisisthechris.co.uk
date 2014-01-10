@@ -1,0 +1,31 @@
+body{
+    background-color: #dd1b1b;
+    color: #ffffff;
+    font-family: "proxima-nova",sans-serif;
+    /*font-size: 200%;*/
+}
+h1, h2{
+    font-weight: normal;
+}
+header{
+    font-size: 4.5em;
+}
+h2{
+    font-size: 3em;
+}
+a{
+    color: #ffffff;
+    font-size: 3em;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    margin-top: 1em;
+    margin-left: 3em;
+}
+.notop{
+    margin-top: 0em;
+}
